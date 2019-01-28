@@ -3,7 +3,7 @@ import solaredge as se
 from utilities import *
 
 # API access
-key = se.Solaredge("CS5RR480J372BS75DYBOWCX2JSIGEFKQ")
+key = se.Solaredge("###")
 
 # Choose data end date
 end_date = '2018-11-18'
