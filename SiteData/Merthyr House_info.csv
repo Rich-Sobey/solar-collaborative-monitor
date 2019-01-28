@@ -1,0 +1,13 @@
+parameter,value
+peak_power,65.0
+install_date,2018-03-07
+country,South Africa
+city,Durban
+address1,Anton Lembede Street 267
+address2,
+zip_code,4001
+module_brand,Canadian Solar
+module_model,CS6U 330P
+module_power,330.0
+module_temp_co,-0.41
+n_inverters,2

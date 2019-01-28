@@ -1,0 +1,13 @@
+parameter,value
+peak_power,150.15
+install_date,2018-03-01
+country,South Africa
+city,Johannesburg
+address1,Renaissance Drive 6
+address2,
+zip_code,2092
+module_brand,Canadian Solar
+module_model,CS6U-325P
+module_power,325.0
+module_temp_co,-0.41
+n_inverters,5

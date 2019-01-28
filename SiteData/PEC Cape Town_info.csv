@@ -1,0 +1,13 @@
+parameter,value
+peak_power,21.0
+install_date,2017-02-03
+country,South Africa
+city,Cape Town
+address1,3 Tetra Street
+address2,Bellville
+zip_code,7530
+module_brand,Canadian Solar
+module_model,265w
+module_power,265.0
+module_temp_co,0
+n_inverters,1

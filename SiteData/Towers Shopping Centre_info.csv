@@ -1,0 +1,13 @@
+parameter,value
+peak_power,800.0
+install_date,2018-07-24
+country,South Africa
+city,Boksburg
+address1,North Rand Road 6
+address2,
+zip_code,1459
+module_brand,Canadian Solar
+module_model,CS6U 330P
+module_power,330.0
+module_temp_co,-0.41
+n_inverters,24

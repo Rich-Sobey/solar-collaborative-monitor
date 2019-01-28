@@ -1,0 +1,13 @@
+parameter,value
+peak_power,92.4
+install_date,2018-02-26
+country,South Africa
+city,Cape Town
+address1,Josias Blanckenberg Street 
+address2,
+zip_code,7349
+module_brand,JA solar
+module_model,JAP6K-330W
+module_power,330.0
+module_temp_co,-0.41
+n_inverters,3
