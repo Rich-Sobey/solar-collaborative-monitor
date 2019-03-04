@@ -3,10 +3,10 @@ import solaredge as se
 from utilities import *
 
 # API access
-key = se.Solaredge("###")
+key = se.Solaredge("CS5RR480J372BS75DYBOWCX2JSIGEFKQ")
 
 # Choose data end date
-end_date = '2018-11-18'
+end_date = '2019-02-28'
 
 # List of all sites of interest
 site_ids = [655402, 655467, 410977, 605351, 672695, 520043, 558809, 644207,

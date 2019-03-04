@@ -22,8 +22,8 @@ def get_weather_data(key, coords, start_date, end_date):
                     if param != 'datetime':
                         value = data_block.hourly[hour][param]
                     else:
-                        value = dt.fromtimestamp(data_block.hourly[hour].time)
-                except KeyError:
+                        value = dt(day.year, day.month, day.day, hour)
+                except (KeyError, IndexError):
                     if hour > 0:
                         value = values[-1]
                     else:

@@ -140,7 +140,7 @@ def consolidate_data(key, site_ids, end_date):
         df_site = preprocess(df_site, site, method='mean', cons=False)
         df_site = export_lim(df_site, site, full_days=False)
         df_site = offline(df_site, site, remove=True, full_days=True)
-        df_site = previous(df_site)
+        #df_site = previous(df_site)
         try:
             coords = (details['details']['lat'], details['details']['long'])
         except KeyError:
